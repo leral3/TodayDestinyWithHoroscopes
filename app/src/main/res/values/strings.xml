@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContainerSpinnerWithHoroscpoes</string>
+    <!-- 새로 추가한 문구 -->
+    <string name="text_selected">당신의 별자리는?</string>
+    <string name="text_destiny">별자리로 본 당신 특징</string>
+    <string name="btn_stars">오늘의 당신 별자리 운세</string>
+</resources>
